@@ -57,7 +57,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/malakallam3/image-captioning-model
+git clone https://github.com/malakallam3/image-captioning-model.git
 cd image-captioning-model
 ```
 
